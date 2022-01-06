@@ -189,5 +189,5 @@
 
        :config
        literate
-      (default +emacs +emacs-keybindings +smartparens)
-       )
+      (default +bindings +emacs +smartparens)
+      )
